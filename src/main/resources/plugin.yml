@@ -1,0 +1,11 @@
+name: SkyDailyTasks
+author: EmreSaritas
+version: 1.0
+api-version: 1.16
+main: com.emre.skydailytasks.DailyTaskMain
+
+
+commands:
+  günlükgörev:
+    description: günlükgörev
+    usage: /günlükgörev

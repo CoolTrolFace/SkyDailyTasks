@@ -1,0 +1,77 @@
+
+
+tasks:
+  1:
+    type: WHITE_WOOL
+    name: "&eTest Görevi"
+    amount: 5
+    req:
+      - WHITE_WOOL;5
+    skycoin: 100
+    lore:
+      - ""
+      - "&eTest görevidir"
+      - ""
+      - "&eGereken: 5 Beyaz Yün"
+      - "&eÖdül SkyCoin: 100"
+  2:
+    type: WHITE_WOOL
+    name: "&eTest Görevi 2"
+    amount: 10
+    req:
+      - WHITE_WOOL;10
+    skycoin: 100
+    lore:
+      - ""
+      - "&eTest görevidir"
+      - ""
+      - "&eGereken: 10 Beyaz Yün"
+      - "&eÖdül SkyCoin: 100"
+  3:
+    type: WHITE_WOOL
+    name: "&eTest Görevi 3"
+    amount: 15
+    req:
+      - WHITE_WOOL;15
+    skycoin: 100
+    lore:
+      - ""
+      - "&eTest görevidir"
+      - ""
+      - "&eGereken: 15 Beyaz Yün"
+      - "&eÖdül SkyCoin: 100"
+  4:
+    type: WHITE_WOOL
+    name: "&eTest Görevi 4"
+    amount: 20
+    req:
+      - WHITE_WOOL;20
+    skycoin: 100
+    lore:
+      - ""
+      - "&eTest görevidir"
+      - ""
+      - "&eGereken: 20 Beyaz Yün"
+      - "&eÖdül SkyCoin: 100"
+
+  5:
+    type: WHITE_WOOL
+    name: "&eTest Görevi 5"
+    amount: 25
+    req:
+      - WHITE_WOOL;25
+    skycoin: 100
+    lore:
+      - ""
+      - "&eTest görevidir"
+      - ""
+      - "&eGereken: 25 Beyaz Yün"
+      - "&eÖdül SkyCoin: 100"
+
+prizes:
+  1:
+    name: "&d100$"
+    command: "money give %player% 100"
+  2:
+    name: "&d500$"
+    command: "money give %player% 500"
